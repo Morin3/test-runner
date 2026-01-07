@@ -72,7 +72,7 @@
     "jest-serializer-html": "^7.1.0",
     "jest-watch-typeahead": "^2.0.0",
     "nyc": "^15.1.0",
-    "playwright": "^1.14.0"
+    "playwright": "^1.56.0"
   },
   "devDependencies": {
     "@auto-it/released": "^11.1.6",
